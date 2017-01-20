@@ -1,0 +1,6 @@
+to return json 
+--------------
+public JsonResult getjj()
+{
+  return Json("k", JsonRequestBehaviour.AllowGet);
+}
