@@ -8,3 +8,6 @@ then write jquery inside
 .....
 
 }
+
+for ajax call
+$("#user_content").load("User/Search");
